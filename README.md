@@ -92,3 +92,7 @@ DeepFake-Detection/
 
 - Celeb-DF dataset
 - DeepFake++ detection implementation
+<<<<<<< HEAD
+=======
+
+>>>>>>> e063e41bb508b40f17298fcc3b5024bc16f3380b
